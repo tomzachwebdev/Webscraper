@@ -1,0 +1,29 @@
+{
+  "name": "webscraper",
+  "version": "1.0.0",
+  "description": "scrape google shopping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "absolutify": "^0.1.0",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.0.4",
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "expect": "^27.4.2",
+    "express": "^4.17.1",
+    "google-search-results-nodejs": "^2.0.1",
+    "http-proxy": "^1.18.1",
+    "json-2-csv": "^3.14.4",
+    "puppeteer": "^12.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "retry-axios": "^2.6.0"
+  }
+}
